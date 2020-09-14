@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HandlebarsParser\HandlebarsParser.csproj" />
+  </ItemGroup>
+  
 </Project>
