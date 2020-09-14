@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ykXu4hrTe8fI4txuDtNgxEcNGTKPVbQbrInG7uzT5pMc21cG5nlmiNr9U9sIO5Q6w/2shfTgDXlDro2nx0iKQ==",
+  "success": true,
+  "projectFilePath": "C:\\source\\HandlebarsParser\\HandlebarsParser\\HandlebarsParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
